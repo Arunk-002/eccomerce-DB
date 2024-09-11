@@ -1,4 +1,6 @@
 E-Commerce Database
+
+
 Project Description
 This SQL script defines the schema for a basic e-commerce system. It includes tables for managing customers, product categories, products, shopping carts, and cart items.
 
